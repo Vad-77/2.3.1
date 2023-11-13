@@ -10,7 +10,6 @@ import org.springframework.web.bind.annotation.RequestParam;
 import web.model.User;
 import web.servies.UserService;
 
-import java.util.List;
 
 @Controller
 public class UserController {
